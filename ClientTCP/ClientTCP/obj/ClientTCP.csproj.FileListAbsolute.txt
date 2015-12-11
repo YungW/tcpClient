@@ -1,0 +1,8 @@
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Client.resources
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.Cache
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+E:\PROJECT\Examples\TCP\TCP\TCP\ClientTCP\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
